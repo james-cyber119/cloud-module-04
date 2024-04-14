@@ -1,0 +1,17 @@
+ami-0b8b44ec9a8f90422
+t2.micro
+my-key-pair
+sg-0e4be45fb9b5db2fa
+3
+install04-env.sh
+module4-tag
+jdl-tg
+jdl-elb
+us-east-2b
+us-east-2a
+jdl-lt
+jdl-asg
+2
+5
+3
+us-east-2
